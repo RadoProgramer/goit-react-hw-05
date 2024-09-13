@@ -1,0 +1,29 @@
+.cast {
+  padding: 20px;
+}
+
+.cast h2 {
+  font-size: 1.5em;
+  color: #282c34;
+}
+
+.cast ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cast li {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.cast img {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.cast p {
+  margin: 0;
+}

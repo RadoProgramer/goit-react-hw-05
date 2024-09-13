@@ -1,0 +1,21 @@
+.reviews {
+  padding: 20px;
+}
+
+.reviews h2 {
+  font-size: 1.5em;
+  color: #282c34;
+}
+
+.reviews ul {
+  list-style: none;
+  padding: 0;
+}
+
+.reviews li {
+  margin-bottom: 20px;
+}
+
+.reviews h3 {
+  margin: 0;
+}
