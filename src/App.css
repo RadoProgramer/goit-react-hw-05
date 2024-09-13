@@ -1,7 +1,7 @@
 nav {
   display: flex;
   gap: 1rem;
-  background-color: #282c34;
+  background-color: #fafafa;
   padding: 1rem;
   border-bottom: 1px solid #ddd;
 }
@@ -17,7 +17,7 @@ nav a:hover {
 }
 
 nav a.active {
-  color: #ff69b4; /* Pink color for active link */
+  color: #ff69b4;
 }
 
 body {
